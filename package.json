@@ -1,0 +1,23 @@
+{
+  "name": "palindrom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fadma1234/node-palindrome-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fadma1234/node-palindrome-bootcamp/issues"
+  },
+  "homepage": "https://github.com/Fadma1234/node-palindrome-bootcamp#readme",
+  "dependencies": {
+    "node": "^24.10.0"
+  }
+}
