@@ -3,14 +3,12 @@
 
 ### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
 ### Tech Stack:
-HTML
-For the structure.
+- HTML
 
-CSS
-For styling.
+- CSS
+  
+- JavaScript
 
-JavaScript
-
-node server
-### How to View:
-Download or clone this repo. Open index.html in your browser. Click the link on the right under About to see the live demo.
+- node server
+### Live Demo
+Click the link on the right under About to see the live demo.
